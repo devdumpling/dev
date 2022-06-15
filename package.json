@@ -7,6 +7,9 @@
     "type-check": "tsc"
   },
   "dependencies": {
+    "@mantine/core": "^4.2.9",
+    "@mantine/hooks": "^4.2.9",
+    "@mantine/next": "^4.2.9",
     "@mdx-js/loader": "^2.1.1",
     "@next/mdx": "^12.1.6",
     "next": "latest",
