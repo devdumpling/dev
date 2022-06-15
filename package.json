@@ -7,14 +7,19 @@
     "type-check": "tsc"
   },
   "dependencies": {
+    "@mantine/core": "^4.2.9",
+    "@mantine/hooks": "^4.2.9",
+    "@mantine/next": "^4.2.9",
+    "@mdx-js/loader": "^2.1.1",
+    "@next/mdx": "^12.1.6",
     "next": "latest",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react": "latest",
+    "react-dom": "latest"
   },
   "devDependencies": {
     "@types/node": "^12.12.21",
-    "@types/react": "^17.0.2",
-    "@types/react-dom": "^17.0.1",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
     "typescript": "4.7.3"
   }
 }
