@@ -14,7 +14,8 @@
     "@next/mdx": "^12.1.6",
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "tabler-icons-react": "^1.49.0"
   },
   "devDependencies": {
     "@types/node": "^12.12.21",
