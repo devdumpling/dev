@@ -5,7 +5,7 @@ export const Layout = ({ meta, children }) => {
   return (
     <Container>
       <Header />
-      {children}
+      <main>{children}</main>
     </Container>
   );
 };

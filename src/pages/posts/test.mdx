@@ -2,7 +2,11 @@ import { Layout } from "../../components";
 
 export const meta = {
   author: "Devon Wells",
+  id: 1,
+  slug: "test",
 };
+
+<section>
 
 # This is only a test
 
@@ -20,4 +24,8 @@ Cras sit amet malesuada enim. Vivamus pharetra mollis lorem non laoreet. Nulla f
 
 Vivamus quis egestas leo. In egestas libero eget massa pellentesque, et auctor tellus viverra. Suspendisse quis sem eros. Aenean dignissim eu lacus ac lacinia. Nulla eu elit vitae nunc aliquam commodo vitae ac nisi. Nulla eget tempus libero. Nam mattis placerat ultricies. Donec consequat tortor eu ullamcorper dignissim. Integer in massa eu erat auctor viverra ac at massa. Donec sit amet egestas purus, vel pharetra mi. Nunc sed accumsan magna. Suspendisse malesuada mattis dolor, vitae aliquet nisi facilisis vitae. Morbi rutrum sit amet velit quis sagittis.
 
-export default ({ children }) => <Layout>{children}</Layout>;
+</section>
+
+export default ({ layout = true, children }) => {
+  return layout ? <Layout>{children}</Layout> : <>{children}</>;
+};
