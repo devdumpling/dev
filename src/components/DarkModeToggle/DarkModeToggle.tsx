@@ -7,12 +7,12 @@ export const DarkModeToggle = () => {
 
   return (
     <ActionIcon
-      variant="outline"
+      variant="hover"
       color={dark ? "orange" : "violet"}
       onClick={() => toggleColorScheme()}
       title="Toggle color scheme"      
     >
-      {dark ? <Sun size={18} /> : <MoonStars size={18} />}
+      {dark ? <Sun size={24} /> : <MoonStars size={24} />}
     </ActionIcon>
   );
 };
