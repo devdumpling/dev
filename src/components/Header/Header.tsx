@@ -1,5 +1,5 @@
-import { Paper, Group, Title, Text, Box, Anchor, Stack } from "@mantine/core";
-import { DarkModeToggle } from "../DarkModeToggle";
+import { Paper, Group, Title, Text, Box, Anchor, Stack } from '@mantine/core';
+import { DarkModeToggle } from '../DarkModeToggle';
 
 export const Header = () => (
   <Paper shadow="xs" p="md" my="sm">

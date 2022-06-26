@@ -1,6 +1,6 @@
-import { Container } from "@mantine/core";
+import { Container } from '@mantine/core';
 
-import { Header } from "../components";
+import { Header } from '../components';
 
 const IndexPage = ({ LatestPost }) => (
   <Container>
@@ -12,7 +12,7 @@ const IndexPage = ({ LatestPost }) => (
 export async function getStaticProps() {
   return {
     props: {
-      title: "Home",
+      title: 'Home',
     },
   };
 }

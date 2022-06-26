@@ -1,14 +1,14 @@
-import { useState } from "react";
+import { useState } from 'react';
 
-import { AppProps } from "next/app";
-import Head from "next/head";
+import { AppProps } from 'next/app';
+import Head from 'next/head';
 import {
   MantineProvider,
   ColorSchemeProvider,
   ColorScheme,
-} from "@mantine/core";
-import { useColorScheme } from "@mantine/hooks";
-import { theme } from "../constants/theme";
+} from '@mantine/core';
+import { useColorScheme } from '@mantine/hooks';
+import { theme } from '../constants/theme';
 
 export default function App(props: AppProps) {
   const { Component, pageProps } = props;
@@ -16,7 +16,7 @@ export default function App(props: AppProps) {
   const [colorScheme, setColorScheme] =
     useState<ColorScheme>(preferredColorScheme);
   const toggleColorScheme = (value?: ColorScheme) =>
-    setColorScheme(value || (colorScheme === "dark" ? "light" : "dark"));
+    setColorScheme(value || (colorScheme === 'dark' ? 'light' : 'dark'));
 
   return (
     <>
