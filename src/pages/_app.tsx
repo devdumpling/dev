@@ -2,6 +2,9 @@ import { useState } from 'react';
 
 import { AppProps } from 'next/app';
 import Head from 'next/head';
+
+import { MDXProvider } from '@mdx-js/react';
+
 import {
   MantineProvider,
   ColorSchemeProvider,
@@ -41,7 +44,9 @@ export default function App(props: AppProps) {
             ...theme,
           }}
         >
-          <Component {...pageProps} />
+          <MDXProvider>
+            <Component {...pageProps} />
+          </MDXProvider>
         </MantineProvider>
       </ColorSchemeProvider>
     </>
