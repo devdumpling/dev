@@ -1,19 +1,15 @@
 import type { NextApiRequest, NextApiResponse } from 'next';
-import { getMdxPosts } from '../../../utils';
+import { getLatestPost } from '../../../utils/getLatestPost';
 
 // iterate over each file in posts and return the one with the highest id
 export default async (req: NextApiRequest, res: NextApiResponse) => {
-  const posts = await getMdxPosts('src/posts');
+  const latest = await getLatestPost('src/posts');
 
-  if (!posts || !posts.length) {
+  if (!latest) {
     res.status(404).json({
-      message: 'No posts found',
+      message: 'Could not find latest post',
     });
   }
-
-  const latest = Object.values(posts).reduce((acc, post) =>
-    post?.frontmatter?.id > acc?.frontmatter?.id ? post : acc,
-  );
 
   res.status(200).json(latest);
 };
