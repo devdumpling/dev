@@ -1,7 +1,7 @@
 import { Container } from '@mantine/core';
 import { Header } from '../Header';
 
-export const Layout = ({ meta, children }) => {
+export const Layout = ({ children }) => {
   return (
     <Container>
       <Header />

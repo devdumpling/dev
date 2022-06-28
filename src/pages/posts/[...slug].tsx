@@ -1,13 +1,14 @@
 import { MDXRemote } from 'next-mdx-remote';
 import { serialize } from 'next-mdx-remote/serialize';
+import { Layout } from '../../components';
 
 import { getMdxPosts } from '../../utils';
 
-const Post = ({ content, frontmatter }) => {  
+const Post = ({ content, frontmatter }) => {
   return (
-    <div>
+    <Layout >
       <MDXRemote {...content} frontmatter={frontmatter} />
-    </div>
+    </Layout>
   );
 };
 
@@ -25,7 +26,7 @@ export async function getStaticPaths() {
   };
 }
 
-export async function getStaticProps({ params: { slug } }) {  
+export async function getStaticProps({ params: { slug } }) {
   const posts = await getMdxPosts('src/posts');
   const postSlug = slug.join('/');
   const [post] = posts.filter((post) => post?.frontmatter.slug === postSlug);

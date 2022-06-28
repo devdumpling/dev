@@ -11,9 +11,8 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     });
   }
 
-  const latest = Object.values(posts).reduce(
-    (acc, post) => (post?.frontmatter?.id > acc?.id ? post : acc),
-    { id: 0 },
+  const latest = Object.values(posts).reduce((acc, post) =>
+    post?.frontmatter?.id > acc?.frontmatter?.id ? post : acc,
   );
 
   res.status(200).json(latest);
