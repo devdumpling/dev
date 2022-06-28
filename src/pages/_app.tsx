@@ -1,14 +1,17 @@
-import { useState } from "react";
+import { useState } from 'react';
 
-import { AppProps } from "next/app";
-import Head from "next/head";
+import { AppProps } from 'next/app';
+import Head from 'next/head';
+
+import { MDXProvider } from '@mdx-js/react';
+
 import {
   MantineProvider,
   ColorSchemeProvider,
   ColorScheme,
-} from "@mantine/core";
-import { useColorScheme } from "@mantine/hooks";
-import { theme } from "../constants/theme";
+} from '@mantine/core';
+import { useColorScheme } from '@mantine/hooks';
+import { theme } from '../constants/theme';
 
 export default function App(props: AppProps) {
   const { Component, pageProps } = props;
@@ -16,12 +19,12 @@ export default function App(props: AppProps) {
   const [colorScheme, setColorScheme] =
     useState<ColorScheme>(preferredColorScheme);
   const toggleColorScheme = (value?: ColorScheme) =>
-    setColorScheme(value || (colorScheme === "dark" ? "light" : "dark"));
+    setColorScheme(value || (colorScheme === 'dark' ? 'light' : 'dark'));
 
   return (
     <>
       <Head>
-        <title>Page title</title>
+        <title>Dev Blog</title>
         <meta
           name="viewport"
           content="minimum-scale=1, initial-scale=1, width=device-width"
@@ -41,7 +44,9 @@ export default function App(props: AppProps) {
             ...theme,
           }}
         >
-          <Component {...pageProps} />
+          <MDXProvider>
+            <Component {...pageProps} />
+          </MDXProvider>
         </MantineProvider>
       </ColorSchemeProvider>
     </>
