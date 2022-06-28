@@ -1,9 +1,9 @@
 import type { NextApiRequest, NextApiResponse } from 'next';
-import { getMdxContent } from '../../../utils';
+import { getMdxPosts } from '../../../utils';
 
 // iterate over each file in posts and return the one with the highest id
 export default async (req: NextApiRequest, res: NextApiResponse) => {
-  const posts = await getMdxContent('src/pages/posts');
+  const posts = await getMdxPosts('src/posts');
 
   if (!posts || !posts.length) {
     res.status(404).json({
@@ -12,7 +12,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
   }
 
   const latest = Object.values(posts).reduce(
-    (acc, post) => (post?.id > acc?.id ? post : acc),
+    (acc, post) => (post?.frontmatter?.id > acc?.id ? post : acc),
     { id: 0 },
   );
 

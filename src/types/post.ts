@@ -1,6 +1,9 @@
-export type MdxPostType = {
-  id: number;
-  slug: string;
-  author?: string;
+export type SerializedMdxPost = {
+  frontmatter: PostFrontmatter;
   content: string;
 };
+export interface PostFrontmatter {
+  id?: number;
+  slug?: string;
+  author?: string;  
+}

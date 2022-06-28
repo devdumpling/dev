@@ -1,1 +1,1 @@
-export * from './getMdxContent';
+export * from './getMdxPosts';
