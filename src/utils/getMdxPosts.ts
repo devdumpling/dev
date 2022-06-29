@@ -7,7 +7,7 @@ import { PostFrontmatter, SerializedMdxPost } from '../types';
 export async function getMdxPosts(
   source: string,
 ): Promise<SerializedMdxPost[]> {
-  const contentGlob = `${source}/**/*.mdx`;
+  const contentGlob = [`${source}/**/*.mdx`, `${source}/**/*.md`];
   const files = await glob(contentGlob);
 
   if (!files || !files.length) {
@@ -20,17 +20,27 @@ export async function getMdxPosts(
       const fileContent = await fs.readFile(filePath, 'utf8');
       const { content: postContent, data } = matter(fileContent);
 
-      const { id, slug, author, title, subtitle, createdAt } =
-        data as PostFrontmatter;
+      const {
+        id,
+        slug,        
+        title,
+        subtitle,
+        date,
+        description,
+        categories,
+        keywords,
+      } = data as PostFrontmatter;
 
       return {
         frontmatter: {
-          id,
-          slug,
-          author,
+          id: id || 0,
+          description,
+          categories,
+          keywords,
+          slug,          
           title: title || slug,
           subtitle: subtitle || '',
-          createdAt: createdAt || new Date().toISOString(),
+          date: date || new Date().toISOString(),
         },
         content: postContent,
       };

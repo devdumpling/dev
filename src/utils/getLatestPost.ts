@@ -8,7 +8,7 @@ export const getLatestPost = async (source: string) => {
   }
 
   const latest = Object.values(posts).reduce((acc, post) =>
-    post?.frontmatter?.id > acc?.frontmatter?.id ? post : acc,
+    post?.frontmatter?.date > acc?.frontmatter?.date ? post : acc,
   );
 
   return latest;
