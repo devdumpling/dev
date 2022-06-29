@@ -7,5 +7,6 @@ export interface PostFrontmatter {
   slug?: string;
   author?: string;  
   title?: string;
+  subtitle?: string;
   createdAt?: string;
 }

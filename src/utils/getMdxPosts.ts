@@ -20,7 +20,8 @@ export async function getMdxPosts(
       const fileContent = await fs.readFile(filePath, 'utf8');
       const { content: postContent, data } = matter(fileContent);
 
-      const { id, slug, author, title, createdAt } = data as PostFrontmatter;
+      const { id, slug, author, title, subtitle, createdAt } =
+        data as PostFrontmatter;
 
       return {
         frontmatter: {
@@ -28,6 +29,7 @@ export async function getMdxPosts(
           slug,
           author,
           title: title || slug,
+          subtitle: subtitle || '',
           createdAt: createdAt || new Date().toISOString(),
         },
         content: postContent,
