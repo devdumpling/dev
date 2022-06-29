@@ -16,6 +16,7 @@ const PostsPage = (props: PostPageProps) => {
     <Layout>
       <Title>Posts</Title>
       <List
+        mt="sm"
         spacing="md"
         styles={{
           item: {
@@ -29,7 +30,8 @@ const PostsPage = (props: PostPageProps) => {
               <Paper
                 sx={(theme) => ({
                   '&:hover': {
-                    backgroundColor: theme.colors.gray[0],
+                    borderLeft: `3px solid ${theme.colors.orange[4]}`,                    
+                    paddingLeft: '9px',
                   },
                 })}
                 p="sm"
@@ -42,9 +44,9 @@ const PostsPage = (props: PostPageProps) => {
                   <Text>{post.frontmatter.subtitle}</Text>
                 )}
                 <Text color="dimmed">{post.frontmatter.createdAt}</Text>
+                <Divider mt="xs" />
               </Paper>
             </Link>
-            <Divider mt="xs" />
           </List.Item>
         ))}
       </List>
