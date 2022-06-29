@@ -2,9 +2,11 @@ import glob from 'fast-glob';
 import path from 'path';
 import { promises as fs } from 'fs';
 import matter from 'gray-matter';
-import { PostFrontmatter } from '../types';
+import { PostFrontmatter, SerializedMdxPost } from '../types';
 
-export async function getMdxPosts(source: string) {
+export async function getMdxPosts(
+  source: string,
+): Promise<SerializedMdxPost[]> {
   const contentGlob = `${source}/**/*.mdx`;
   const files = await glob(contentGlob);
 
@@ -17,14 +19,18 @@ export async function getMdxPosts(source: string) {
       const filePath = path.resolve(file);
       const fileContent = await fs.readFile(filePath, 'utf8');
       const { content: postContent, data } = matter(fileContent);
-            
-      const { id, slug, author } = data as PostFrontmatter;
+
+      const { id, slug, author, title, subtitle, createdAt } =
+        data as PostFrontmatter;
 
       return {
         frontmatter: {
           id,
           slug,
           author,
+          title: title || slug,
+          subtitle: subtitle || '',
+          createdAt: createdAt || new Date().toISOString(),
         },
         content: postContent,
       };

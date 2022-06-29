@@ -3,7 +3,7 @@ import { MDXRemote } from 'next-mdx-remote';
 import { serialize } from 'next-mdx-remote/serialize';
 
 import { Header } from '../components';
-import { getLatestPost } from '../utils/getLatestPost';
+import { getLatestPost } from '../utils';
 
 const IndexPage = (props) => {
   const { content } = props;
