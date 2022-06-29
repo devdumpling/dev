@@ -14,7 +14,7 @@ const PostsPage = (props: PostPageProps) => {
 
   return (
     <Layout>
-      <Title>Posts</Title>
+      <Title ml='sm'>Posts</Title>
       <List
         mt="sm"
         spacing="md"
@@ -25,15 +25,15 @@ const PostsPage = (props: PostPageProps) => {
         }}
       >
         {posts.map((post) => (
-          <List.Item icon={null} key={post.frontmatter.id}>
+          <List.Item key={post.frontmatter.id}>
             <Link href={`/posts/${post.frontmatter.slug}`} passHref>
               <Paper
-                sx={(theme) => ({
+                sx={(theme) => ({                  
                   '&:hover': {
-                    borderLeft: `3px solid ${theme.colors.orange[4]}`,                    
+                    borderLeft: `3px solid ${theme.colors.violet[4]}`,                    
                     paddingLeft: '9px',
                   },
-                })}
+                })}                
                 p="sm"
                 radius="xs"
                 component="a"
