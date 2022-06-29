@@ -7,7 +7,7 @@ keywords: []
 slug: how-the-never-give-up-narrative-failed-me
 ---
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/0__XAuDD0dWI30BNx__K.jpg)
+![](/assets/img/0__XAuDD0dWI30BNx__K.jpg)
 
 **Right about every gym across the USA parades a horde of inspirational messages through their dusty halls. Many of them are corny, recycled versions of the same idea: “Never Give Up.”** It’s a simple message that resonates through the walls of the concrete jungle, harvesting momentum from every grunted out PR rep, unrelenting in its judgment of gym denizens. All of this comes for good reason, as consistency is the foundation for results when it comes to gym goals, be it strength, endurance, weight loss, or what have you. It’s no secret that trainers and fitness guides stress consistency as the most significant factor in achieving one’s goals. This is due to the fact that we’re creatures of habit. If you can get into the habit of doing something, your body adapts to excel at that. Fitness is no different. So, it should come as no surprise that “Never Give Up” is the paraphrased slogan of gyms, sports, and fitness communities everywhere.
 

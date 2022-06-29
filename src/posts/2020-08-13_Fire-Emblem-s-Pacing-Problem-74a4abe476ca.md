@@ -9,11 +9,11 @@ keywords: []
 slug: fire-emblems-pacing-problem
 ---
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__ahqEb0Lk__yTF57GnINLZTA.png)
+![](/assets/img/1__ahqEb0Lk__yTF57GnINLZTA.png)
 
 #### RETROSPECTIVE
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__M02xfh8zBDwRAw7hYbAGWA.png)
+![](/assets/img/1__M02xfh8zBDwRAw7hYbAGWA.png)
 
 E**arlier this year I treated myself to an early birthday gift: the latest _Fire Emblem_. I was ecstatic. The reviews were excellent, and the _Fire Emblem_ series is among my favorites. But one thing had me nervous.**
 
@@ -27,7 +27,7 @@ A core feature of the _Fire Emblem_ series has always been character-driven stor
 
 _Fire Emblem: Three Houses_ doesn’t follow that same formula. Instead, much of the development and storytelling happens during the “exploration” part of the game where you talk to the cast from your home base.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__eh6zkyzFwVlJCkRDgTxaCg.png)
+![](/assets/img/1__eh6zkyzFwVlJCkRDgTxaCg.png)
 
 Here’s where the problem starts to come in. The time you spend at home base getting to know the characters (among other things that I’m grouping into the same category, like “instructing,” which yields skill experience) ends up being such a large part of the game that it makes the battles feel like an afterthought. And since the major plot points happen in-tandem with the battles, the story ends up feeling slow and muddled.
 
@@ -39,7 +39,7 @@ Your initial thought might be, “Well, why didn’t you just skip through it?�
 
 Because that’s not _Fire Emblem_. _Fire Emblem_ is not a game for skipping content. _Fire Emblem_ is about talking to your crew, building the dream team, and getting attached to their relationships with each other. The gems in these series have always been hidden between the lines.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__lyxd8d2Jf6hRdWUm68SXCA.jpeg)
+![](/assets/img/1__lyxd8d2Jf6hRdWUm68SXCA.jpeg)
 
 But in _Three Houses_, what I’d expect to be in-between the lines ended up being a bunch of shallow filler and redundant “gameplay.” Why do I need an entire “instruction” day to add a small amount of skill experience to my units? This used to happen automatically by just _using the units in battle_. What’s the point of going to the shopping district when all of the things they sell there are available _in the battle screen_?
 
@@ -51,7 +51,7 @@ But in-between each battle guess what happens? That’s right. Somehow they deci
 
 Stuff like this shatters what would otherwise be a well-paced game.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__lcgowomjnIyl8Iip__rK0Pw.jpeg)
+![](/assets/img/1__lcgowomjnIyl8Iip__rK0Pw.jpeg)
 
 In my opinion, the previous games in the series did not suffer from this, even though they often had side missions or other departures from the main plot. This is due to the fact that the side missions felt meaningful and maintained pacing, even though they weren’t necessarily directly related to the game.
 
@@ -61,7 +61,7 @@ In _Persona 5_ you have a similar setup. A major plot point happens roughly ever
 
 Yet the game does not slow down. In fact, it seems to speed up.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__bCuuqYgpMjTj0nwaHzAvUQ.png)
+![](/assets/img/1__bCuuqYgpMjTj0nwaHzAvUQ.png)
 
 That’s because what you do in _Persona’s_ downtime feels important in the larger context of the game. The interactions you have with the major characters in this downtime build in distinct, standalone ways that make you _excited_ to play that part of the game. They add flavor to the overall experience in a way that isn’t forced and doesn’t feel repetitive. Most of all, these in-between periods work in the context of the game. There’s a reason for the time between events, and due to the events in the plot, that time feels precious. Every day counts. If you don’t do something fast enough, you lose the game.
 

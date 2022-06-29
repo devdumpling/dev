@@ -7,7 +7,7 @@ keywords: []
 slug: save-spaces-exploring-tranquility-in-games
 ---
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__5xCVfiaOewq4e8wLZ0f8rQ.png)
+![](/assets/img/1__5xCVfiaOewq4e8wLZ0f8rQ.png)
 
 In **the beginning, it’s pitch black. You see nothing, but you hear the whisper of wind over water. The sounds build to a murmur, and you wake. You open your eyes to the familiar teal and blue-greens of the midday sky over the ocean. Clouds dot the horizon, accenting a picturesque ocean.**
 
@@ -19,7 +19,7 @@ When we reminisce about our favorite games, we often talk about the heartbreakin
 
 Throughout the history of video games, especially role-playing games, game developers have taken us through serene woods, charming villages, warm beaches, and many more peaceful places, places with tranquility that only a game could provide. Much like books or movies, they use tranquility to establish perspective and ground us into the world. They do this to make us want to belong in the world. These places evoke emotions that appeal to our sense of home and safety.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__UD8AE7pDGFz3IJzw14O__lQ.jpeg)
+![](/assets/img/1__UD8AE7pDGFz3IJzw14O__lQ.jpeg)
 
 As you can probably guess, this is critical in storytelling. They get you invested in the story while setting the groundwork for tone shifts in the narrative. This strategy is extra important in video games, where the player has the opportunity to directly interact with environments.
 
@@ -39,7 +39,7 @@ Part of what makes the best of video games stand out in our minds is the tension
 
 Take _Dark Souls_ as an example. If you’ve finished any of the _Souls_ games, you’re aware of how frustrating, even humiliating, they can be. And yet, they’re decade-defining games. People remember the adversity they overcame. Moreso they remember every trap and monster waiting to jump you, and around which corners they lurk. They remember the harrowing music and endless fighting. But they also remember the relief of stumbling upon a fire, praising the sun, saving their game, and taking in their journey.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__lgLb5YQMqSY0Sk43qKfNzA.jpeg)
+![](/assets/img/1__lgLb5YQMqSY0Sk43qKfNzA.jpeg)
 
 Think back to your favorite games. What comes to mind?
 
@@ -53,7 +53,7 @@ Now, save spaces do more than just establish memories. They also help you lose y
 
 Save spaces are critical for establishing immersion.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__rvTsXdwyLOA17vKICX3SlA.jpeg)
+![](/assets/img/1__rvTsXdwyLOA17vKICX3SlA.jpeg)
 
 In _Nier: Automata_, a masterpiece of storytelling that I will refrain from spoiling out of respect for anyone who has yet to play it, the player is settled into a calm apocalypse. It’s clear at the outset of the game that something major happened and that we aren’t supposed to know or understand all of it. There’s a magic in that — in a game’s depth being larger than it actually is. That alone can suck a player in. I know I was. However, what makes this experience sink in is the paradoxical tranquility of it all. In this backward, seemingly demolished world, there is a resigned peacefulness. If you haven’t played _Nier: Automata_, well _The Legend of Zelda: Breath of the Wild_ employs the same tactic (though, I will hear arguments that both of them are simply copying _Shadow of the Colossus_).
 

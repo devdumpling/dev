@@ -7,7 +7,7 @@ keywords: []
 slug: the-legend-of-chrono-cross
 ---
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__0HDyMyOzx__jLGlZmH__LaKw.png)
+![](/assets/img/1__0HDyMyOzx__jLGlZmH__LaKw.png)
 
 #### RETROSPECTIVE
 
@@ -23,7 +23,7 @@ And yet, when you get to know him, he’s actually a really great guy.
 
 In the same way, it’s hard to talk about _Chrono Cross_ without talking about _Chrono Trigger_. But you know what? I’m going to try. Because I played _Chrono Cross_ in middle school after begging my mom to buy a new game. It cost $19.99 and I only bought it because I thought the case looked cool.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__Ef__FAM1ITuVH3JGouXPjjQ.jpeg)
+![](/assets/img/1__Ef__FAM1ITuVH3JGouXPjjQ.jpeg)
 
 At the time, I had no idea what _Chrono Trigger_ was. In fact, I didn’t even find out it was part of an entire ethos until years later.
 
@@ -39,14 +39,14 @@ Like any good mystery, you never quite know what’s going on, but you feel draw
 
 On a less abstract level, the world itself is visually stunning. The world is huge for a game released in 1999. Much like _Breath of the Wild_, each area is polished but ambitious in relation to the other areas.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__S5E6zLseaaBj9VN1CrxecA.png)
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1____t6p9__756BvYjL3y8brfaQ.png)
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__87oOt4CQrdPHIr0fVArK1w.png)
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__m6z9gJT__uFokSYU__ipqDhw.png)
+![](/assets/img/1__S5E6zLseaaBj9VN1CrxecA.png)
+![](/assets/img/1____t6p9__756BvYjL3y8brfaQ.png)
+![](/assets/img/1__87oOt4CQrdPHIr0fVArK1w.png)
+![](/assets/img/1__m6z9gJT__uFokSYU__ipqDhw.png)
 
 There’s even an M.C. Escher inspired area that doubles as a puzzle.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__XK1mPY0Y2yPf4FNKwUZaIQ.jpeg)
+![](/assets/img/1__XK1mPY0Y2yPf4FNKwUZaIQ.jpeg)
 
 ### SOUND OF TIME
 
@@ -66,6 +66,6 @@ _Chrono Cross_ had 45 characters that you could recruit into your party. _Forty 
 
 What’s most impressive about the cast is that they (almost) all felt meaningful. They weren’t plot devices or a typecast healer the game shoved in your face. No, they were _companions_ I recruited because I wanted them on my journey. Fuck healing, that mushroom-man is my friend.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__D__NZbqq__Mw8sHdRsPKR__dA.png)
+![](/assets/img/1__D__NZbqq__Mw8sHdRsPKR__dA.png)
 
 When all is said and done, though the story, music, and world are phenomenal, it’s these connections that put _Chrono Cross_ near the top of my list of memorable games. I look forward to my next play-through.

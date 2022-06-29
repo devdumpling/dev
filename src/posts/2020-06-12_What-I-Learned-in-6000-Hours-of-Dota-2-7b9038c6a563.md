@@ -11,7 +11,7 @@ I’m basically still a beginner.
 
 S**ince 2013, I’ve spent close to 6,000 hours (250 days) playing Dota 2, hereafter referred to as just Dota. Like most addictions, it’s been filled with highs and lows.** Over the years, it has made and ruined friend/relationships, cost sleep and money, caused and relieved stress, been a crutch in times of hopelessness, and taught me humility, dedication, teamwork, anger management, and more. I’ve quit the game many times and returned just as many.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__JSjRot1BK0t8msD5__e6ZZQ.png)
+![](/assets/img/1__JSjRot1BK0t8msD5__e6ZZQ.png)
 
 In this article I answer the elusive questions:  
 **a.)** why play 6000 hours of any game, let alone one as frustrating as Dota?  
@@ -20,7 +20,7 @@ In this article I answer the elusive questions:
 
 And more!
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__0egNVjkfb0NO6ufbgsldyw.jpeg)
+![](/assets/img/1__0egNVjkfb0NO6ufbgsldyw.jpeg)
 
 _If your only familiarity with Dota is from the catchy Basshunter song, then let me break it down for you real quick._
 
@@ -28,7 +28,7 @@ _If your only familiarity with Dota is from the catchy Basshunter song, then let
 
 Dota is an online video game where two teams of 5 players battle against each other in a roughly 40 minute match to destroy the other team’s base AKA, their _Ancient_. Each player controls a _hero_, one of 100+ unique characters with spells and lore that a player can choose to play at the outset of a match.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__J__49DJv__Rp4qi2rk7nsipw.jpeg)
+![](/assets/img/1__J__49DJv__Rp4qi2rk7nsipw.jpeg)
 
 Dota started as a Warcraft 3 mod, _Defense of the Ancients (DotA),_ and grew so much in popularity that Valve Software hired the original creator of DotA, _IceFrog,_ as well as a few other talented designers and developers to [create a standalone sequel](https://web.archive.org/web/20121109072424/http://www.ign.com/articles/2011/01/07/valves-next-game). However, since DotA was developed in the Warcraft 3 universe, Blizzard held intellectual property rights on the name _Defense of the Ancients._ Valve executive Erik Johnson argued that the name _Dota_ referred to a concept, not an acronym, and [Valve won a trial in May 2012](https://web.archive.org/web/20120724090129/http://www.gameinformer.com/b/news/archive/2012/05/11/valve-blizzard-reach-dota-trademark-agreement.aspx) for the commercial trademark use of _Dota_. The result is the sequel we know and love today, _Dota 2_, or simply Dota.
 
@@ -40,7 +40,7 @@ While that might sound like a lot of time to spend playing any one game, it’s 
 
 According to DotaBuff, a well-known analysis site for Dota matches, it doesn’t even come close to the [top 100 players with the most time played](https://www.dotabuff.com/players/duration). As of writing this, the player who takes the DotaBuff number 1 spot in time played is AthamRage, claiming **1 year and 266 days** and counting in-game playtime. That’s over **15,000 hours** spent playing Dota. The 100th player is MaH9IK with 1 year and 65 days.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__Ln93BHOXwU8GtRvkikaMgg.png)
+![](/assets/img/1__Ln93BHOXwU8GtRvkikaMgg.png)
 
 One might claim that these hours are easily inflated by just “idling” in the in-game menu but not actually playing. To address this we can cross-evaluate time played with the “matches played” metric. As seen above, AthamRage has 21,150 matches played, similar to the other top 5 players. But how long is an average Dota match?
 
@@ -62,7 +62,7 @@ That said, my 6000 hours has taught me quite a bit.
 
 ### Why Dota?
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__jJzG3__GhZH4uWK08b67LDQ.png)
+![](/assets/img/1__jJzG3__GhZH4uWK08b67LDQ.png)
 
 I could list reasons like:  
 **1.)** It’s free to play.  
@@ -99,7 +99,7 @@ To that end, non-professional or _pub_ (public) Dota is particularly challenging
 
 While they might be a similar skill level, they are humans. They have the same faults as all humans, including you, which means they’re temperamental. If a game is going well, people become friendly and spirited. If a game is not going well or you make a mistake, your teammates will be the first to let you know. As Dota is a game of inches, small mistakes can have big consequences.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__O1b7j0UHV8XwU2ZWQaph4A.png)
+![](/assets/img/1__O1b7j0UHV8XwU2ZWQaph4A.png)
 
 What I’m getting at is that Dota is a high pressure game with high pressure people, and if you can’t keep your cool under the pressure your mistake turns into more and that turns into a loss. This is the cyclic phenomenon that, in gaming, is known as _tilt_, a term gamers coined to capture the imbalance and slow deterioration of one’s composure during a game as pressure builds. It happens in lots of areas of life, but in Dota it usually looks like:
 
@@ -211,7 +211,7 @@ I write all this in hopes that we keep our minds open about the role games play 
 
 ### **Appendix**
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__JyRDwCgdFpdgHnbxE8b1Kg.jpeg)
+![](/assets/img/1__JyRDwCgdFpdgHnbxE8b1Kg.jpeg)
 
 1 Dota matches vary in length according to a number of factors, such as game variant, skill level, and the current _meta_. If you’re unfamiliar with _meta_ in the context of games, it’s a term to capture playing patterns about a game, usually over a particular time-frame. In Dota these time-frames are by _patch_, meaning an update to the game that affects gameplay. If the meta encourages players to play fast-paced and end the game quickly, then the average match time will be lower.
 
@@ -219,7 +219,7 @@ Historically, the most-played Dota game variants are All-Pick and Ranked All-Pic
 
 Taking all this in to account we find the average match duration hovers around **40 minutes**. Players tend to play more seriously in ranked games, which may explain why there’s such a disparity between ranked and unranked All-Pick.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__hDWz4hYJB4E4WM1AkTf0HA.png)
+![](/assets/img/1__hDWz4hYJB4E4WM1AkTf0HA.png)
 
 2The average pro player is a pro for more than just ranking on the leaderboard, AKA their [MMR (Matchmaking Rating)](https://dota2.gamepedia.com/Matchmaking_Rating). However, MMR gives us a fairly accurate qualifier for skill level.
 
@@ -227,7 +227,7 @@ Dota is further broken down into skill brackets with each bracket covering a ran
 
 Here is a visual based on the current (4th) matchmaking season that shows the distribution of players by MMR.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__xZtEhueWp7KgOK1LCt75Sw.png)
+![](/assets/img/1__xZtEhueWp7KgOK1LCt75Sw.png)
 
 Note that Immortal players are in the 99th percentile of all players.
 

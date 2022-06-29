@@ -7,7 +7,7 @@ keywords: []
 slug: valves-language-filter-a-cheap-bandage-for-toxicity
 ---
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__t__xPXZabsTN574mg__V37__g.png)
+![](/assets/img/1__t__xPXZabsTN574mg__V37__g.png)
 
 **CONTENT WARNING:** Discussion of racial, sexual, homophobic, and transphobic slurs in video games, specifically _Dota 2_.
 
@@ -15,11 +15,11 @@ D**_ota_ is in no way unique in its toxicity. I’m using _Dota_ as a case study
 
 Nonetheless, the issue is systemic.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__iRP7xjJvd__Tt16Mb30a0__w.png)
+![](/assets/img/1__iRP7xjJvd__Tt16Mb30a0__w.png)
 
 June 7, in the midst of the #BlackLivesMatter protests following the wake of George Floyd and Breonna Taylor’s murder, Reddit user u/BrianaBessler made a community plea to the _Dota 2_ subreddit.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__7QPe0IMibjqjODmX__oydtA.png)
+![](/assets/img/1__7QPe0IMibjqjODmX__oydtA.png)
 
 This is a common scene for _Dota_, two players trash talking each other in-game. I’ve [written extensively about my experience with _Dota_](https://medium.com/@devon.wells.a/what-i-learned-in-6000-hours-of-dota-2-7b9038c6a563), including how toxic of an environment it can be. What do I mean by _toxic_?
 
@@ -27,18 +27,18 @@ I mean that this behavior is routine. _Dota_ is a high-pressure game. You can sp
 
 This post blew up. With over 11k upvotes at the time of writing, an outlier for r/DotA2, it hit the front page of Reddit. The discussion following in the comments is telling.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__kdTxn7ylsV6lRNcIIGQ5xA.png)
+![](/assets/img/1__kdTxn7ylsV6lRNcIIGQ5xA.png)
 
 Users made hundreds of comments like the one above, citing their experience with racism in the game. While most of the discussion centered around the in-game community, there was plenty around the subreddit’s culture.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__maMd__J7tWAqv__wqXeTw1Ew.png)
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__EbF9R6c1qIbfQCoz__0__d0g.png)
+![](/assets/img/1__maMd__J7tWAqv__wqXeTw1Ew.png)
+![](/assets/img/1__EbF9R6c1qIbfQCoz__0__d0g.png)
 
 r/DotA2 can be thought of as a decent, although narrow sample representation of the game’s culture. Again, I do not consider this to be unique. _League of Legends_, a game often compared to _Dota_, has a similar or worse community.
 
 Some users remarked that _Dota_ is a worldwide game, and tackling racism stands out in America in ways it does not in other countries.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__BP__FQ__fSmhfPC8V7nvUsag.png)
+![](/assets/img/1__BP__FQ__fSmhfPC8V7nvUsag.png)
 
 While all of this may be true, the problem is as pervasive as ever. These comments and the fact that this thread even exists is evidence enough.
 
@@ -86,7 +86,7 @@ Not a week after the Reddit post above, Valve quietly added a default option to 
 
 I found out by opening the game and noticing that certain words were being censored with asterisks. Weird, considering Valve has been forward in the past about how _Dota_ is an adult game with adult language. Why choose to add a censorship option now? Players noticed immediately and within hours a new post blew up on the subreddit.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__G1e7wA8yocC6VzIUu2e__WA.png)
+![](/assets/img/1__G1e7wA8yocC6VzIUu2e__WA.png)
 
 Obviously, Valve took notice of players asking for an answer to the rampant in-game racism.
 
@@ -94,11 +94,11 @@ And this is their answer: a half-assed language filter, so that instead of seein
 
 The filter isn’t even intelligent — it just censors anything remotely offensive. For instance, “Arse” in the above “Arsenal of the Demonic Vessel” is censored. Players joked that the hero Phantom Assassin would now be “Phantom \*\*\*\*\*\*in”.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__B7ydUZktX9BkKhl4N12KiA.png)
+![](/assets/img/1__B7ydUZktX9BkKhl4N12KiA.png)
 
 As pointed out above, you can disable the filter, and this brings me to my main point.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__YFCyjYHx3C7wC5aOXCVGqw.jpeg)
+![](/assets/img/1__YFCyjYHx3C7wC5aOXCVGqw.jpeg)
 
 #### This is not a solution; it is a weak band-aid
 

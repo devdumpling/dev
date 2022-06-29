@@ -7,7 +7,7 @@ keywords: []
 slug: remembering-maplestory
 ---
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__C3h6MChdwsrNCqlFES9Hjw.png)
+![](/assets/img/1__C3h6MChdwsrNCqlFES9Hjw.png)
 
 #### RETROSPECTIVE
 
@@ -27,11 +27,11 @@ So this computer is my escape. And in 2007 to me and my friends and at least a d
 
 _MapleStory_.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__iRP7xjJvd__Tt16Mb30a0__w.png)
+![](/assets/img/1__iRP7xjJvd__Tt16Mb30a0__w.png)
 
 Picture yourself as an early high schooler, maybe you even still are one. Imagine the single most inexplicable thing that brought you the most happiness. Got it? Good. Now add some early 2000s Korean inspiration, some high quality shrooms, the best soundtrack you’ve ever heard, and mix it all together with that token, not-quite chibi anime style and you’ve got _MapleStory_:
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/0__MxFSkN0fNFmdeDn8.jpeg)
+![](/assets/img/0__MxFSkN0fNFmdeDn8.jpeg)
 
 Not sure what you’re looking at? Me neither. And I played this game for years.
 
@@ -39,7 +39,7 @@ It was like one of those dreams where you wake up and aren’t sure if it was a 
 
 Okay, I admit I do recognize quite a bit of what’s going on in this photo. I played _MapleStory_ as soon as it was available in North America. I don’t remember how I found it. Maybe it was installed on one of the library computers, and I just went for it (shout out to whoever installed games on computer 4 against the library policy). The giant tomato above is new to me, though not at all surprising. But the rest of it hits like that first step on the beach after a 5 hour road trip with your family. I can hear the music of Ellinia (the OG forest area), the sounds of noobs whacking away at whatever that tomato is. You can tell they’re noobs because look at them. Is this the guy you want in your party?
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/0__j7ljDDNasOwT1r6l.jpeg)
+![](/assets/img/0__j7ljDDNasOwT1r6l.jpeg)
 
 There’s so much to remember about this game. In fact, all of the 7 people who played this routinely feel pangs of nostalgia over the smallest hints at this masterpiece.
 
@@ -61,7 +61,7 @@ However tedious and repetitive the “core” of the game was, it paved way for 
 
 _MapleStory_ was a lot of things. It ran the gambit of beauty simulator, ARPG, Weeb escapism, and so much more. Every hand drawn map was a breath of 2D-sidescrolling, pseudo-platforming fresh air. As in many MMOs, many areas hold special memories even now. I can still throw on a song from Ellinia or Henesys and almost come to tears. Even the little login screen is almost too much.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/0__9fSS596VvkNYkj7a.jpeg)
+![](/assets/img/0__9fSS596VvkNYkj7a.jpeg)
 
 While plenty of games are nostalgic, I think in my conversations with former players, they almost always agree _MapleStory_ had a special draw to it. Something intangible. A simplistic innocence. That feeling of sneaking onto the computer early in the morning. That one nice Aunt wrapping you in a warm blanket at the family picnic, though you didn’t know you needed one.
 

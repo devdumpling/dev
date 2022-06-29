@@ -23,7 +23,7 @@ Well, that’s what I’m writing you about. It’s been a journey, and while th
 
 Luckily, you have future me (you) to bridge the gap.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/0__49yurznO0c5F1Ym1.jpg)
+![](/assets/img/0__49yurznO0c5F1Ym1.jpg)
 
 ### The Very Beginning
 

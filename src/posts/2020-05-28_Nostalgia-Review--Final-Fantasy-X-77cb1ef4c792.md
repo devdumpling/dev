@@ -78,7 +78,7 @@ This is what tugs on the nostalgia strings. I look back on FFX and remember thes
 
 I remember running across the beach of Besaid, listening to the calming marimba and piano melody of the soundtrack, and meeting Wakka at the beginning of the game, already overcome by wanderlust for this bizarre world. Even now I throw on that song and feel at peace with the world.
 
-![](/Users/devonwells/Downloads/medium-export/posts/md_1656519559749/img/1__ZCAXrF01IBQ38vMZGtUyQg.png)
+![](/assets/img/0__49yurznO0c5F1Ym1.jpg/assets/img/1__ZCAXrF01IBQ38vMZGtUyQg.png)
 
 I remember the chill of the Hymn of Faith, entering the Aeon trials, followed by the frustration of forcing my way through the contrived puzzles.
 
