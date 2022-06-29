@@ -1,4 +1,5 @@
 import { Paper, Group, Title, Text, Box, Anchor, Stack } from '@mantine/core';
+import Link from 'next/link';
 import { DarkModeToggle } from '../DarkModeToggle';
 
 export const Header = ({
@@ -8,10 +9,12 @@ export const Header = ({
   return (
     <Paper shadow="xs" p="md" my="sm">
       <Group position="apart" align="end">
-        <Box>
-          <Title>{title}</Title>
-          <Text>{subtitle}</Text>
-        </Box>
+        <Link href="/" passHref>
+          <Box>
+            <Title>{title}</Title>
+            <Text>{subtitle}</Text>
+          </Box>
+        </Link>
         <Stack align="flex-end" spacing="xs">
           <DarkModeToggle />
           <Group position="right">

@@ -31,7 +31,9 @@ const PostsPage = (props: PostPageProps) => {
                 sx={(theme) => ({
                   '&:hover': {
                     borderLeft: `3px solid ${theme.colors.violet[4]}`,
-                    paddingLeft: '9px',
+                    transition:
+                      'border-left 0.2s ease-in-out, padding-left 0.2s ease-in-out',
+                    paddingLeft: '1rem',
                   },
                 })}
                 p="sm"
@@ -39,8 +41,8 @@ const PostsPage = (props: PostPageProps) => {
                 component="a"
               >
                 <Title order={2}>{post.frontmatter.title}</Title>
-                {post.frontmatter.subtitle && (
-                  <Text>{post.frontmatter.subtitle}</Text>
+                {post.frontmatter.description && (
+                  <Text>{post.frontmatter.description}</Text>
                 )}
                 <Text color="dimmed">{post.frontmatter.date}</Text>
                 <Divider mt="xs" />
