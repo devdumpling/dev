@@ -4,9 +4,11 @@ export type SerializedMdxPost = {
 };
 export interface PostFrontmatter {
   id?: number;
-  slug?: string;
-  author?: string;  
+  slug?: string;  
   title?: string;
   subtitle?: string;
-  createdAt?: string;
+  description?: string;
+  categories?: string[];
+  keywords?: string[];
+  date?: string;
 }

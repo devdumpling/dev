@@ -14,7 +14,7 @@ const PostsPage = (props: PostPageProps) => {
 
   return (
     <Layout>
-      <Title ml='sm'>Posts</Title>
+      <Title ml="sm">Posts</Title>
       <List
         mt="sm"
         spacing="md"
@@ -28,22 +28,23 @@ const PostsPage = (props: PostPageProps) => {
           <List.Item key={post.frontmatter.id}>
             <Link href={`/posts/${post.frontmatter.slug}`} passHref>
               <Paper
-                sx={(theme) => ({                  
+                sx={(theme) => ({
                   '&:hover': {
-                    borderLeft: `3px solid ${theme.colors.violet[4]}`,                    
-                    paddingLeft: '9px',
+                    borderLeft: `3px solid ${theme.colors.violet[4]}`,
+                    transition:
+                      'border-left 0.2s ease-in-out, padding-left 0.2s ease-in-out',
+                    paddingLeft: '1rem',
                   },
-                })}                
+                })}
                 p="sm"
                 radius="xs"
                 component="a"
-                target="_blank"
               >
                 <Title order={2}>{post.frontmatter.title}</Title>
-                {post.frontmatter.subtitle && (
-                  <Text>{post.frontmatter.subtitle}</Text>
+                {post.frontmatter.description && (
+                  <Text>{post.frontmatter.description}</Text>
                 )}
-                <Text color="dimmed">{post.frontmatter.createdAt}</Text>
+                <Text color="dimmed">{post.frontmatter.date}</Text>
                 <Divider mt="xs" />
               </Paper>
             </Link>
