@@ -7,7 +7,7 @@ export const Header = ({
   subtitle = 'Notes and rants.',
 }) => {
   return (
-    <Paper p="md" my="sm">
+    <Paper p="md" my="sm" shadow="xs">
       <Group position="apart" align="end">
         <Link href="/" passHref>
           <Box>
