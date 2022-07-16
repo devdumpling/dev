@@ -17,8 +17,7 @@ export const Header = ({
         </Link>
         <Stack align="flex-end" spacing="xs">
           <DarkModeToggle />
-          <Group position="right">
-            <Anchor href="/about">About</Anchor>
+          <Group position="right">          
             <Anchor href="/posts">Posts</Anchor>
           </Group>
         </Stack>
