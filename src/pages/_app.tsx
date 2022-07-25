@@ -9,9 +9,26 @@ import {
   MantineProvider,
   ColorSchemeProvider,
   ColorScheme,
+  Blockquote,
 } from '@mantine/core';
 import { useColorScheme } from '@mantine/hooks';
 import { theme } from '../constants/theme';
+// import NextImage from 'next/image';
+import { Title, Text, Image } from '@mantine/core';
+
+const components = {
+  h1: (props) => <Title order={1} mt={'md'} {...props} />,
+  h2: (props) => <Title order={2} mt={'md'} {...props} />,
+  h3: (props) => <Title order={3} pt={'md'} {...props} />,
+  h4: (props) => <Title order={4} mt={'md'} {...props} />,
+  h5: (props) => <Title order={5} mt={'md'} {...props} />,
+  h6: (props) => <Title order={6} mt={'md'} {...props} />,
+  p: (props) => <Text mt={'md'} {...props} />,
+  blockquote: (props) => <Blockquote mt={'md'} {...props} />,
+  img: (props) => <Image py={'md'} {...props} />,
+  // TODO figure out config for using next image with these
+  // img: (props) => <NextImage mt={'md'} alt={props.alt} src={props.src} {...props} />,
+};
 
 export default function App(props: AppProps) {
   const { Component, pageProps } = props;
@@ -38,13 +55,12 @@ export default function App(props: AppProps) {
         <MantineProvider
           withGlobalStyles
           withNormalizeCSS
-          theme={{
-            /** Put your mantine theme override here */
+          theme={{            
             colorScheme,
             ...theme,
           }}
         >
-          <MDXProvider>
+          <MDXProvider components={components}>
             <Component {...pageProps} />
           </MDXProvider>
         </MantineProvider>

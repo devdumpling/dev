@@ -1,6 +1,10 @@
 import { MantineThemeOverride } from '@mantine/core';
 
 export const theme: MantineThemeOverride = {
+  fontFamily:
+    'Georgia, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji',
+  fontFamilyMonospace:
+    'ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace',
   colors: {
     dark: [
       '#d5d7e0',

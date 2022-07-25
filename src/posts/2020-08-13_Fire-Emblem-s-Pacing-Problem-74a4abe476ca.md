@@ -11,10 +11,6 @@ slug: fire-emblems-pacing-problem
 
 ![](/assets/img/1__ahqEb0Lk__yTF57GnINLZTA.png)
 
-#### RETROSPECTIVE
-
-![](/assets/img/1__M02xfh8zBDwRAw7hYbAGWA.png)
-
 E**arlier this year I treated myself to an early birthday gift: the latest _Fire Emblem_. I was ecstatic. The reviews were excellent, and the _Fire Emblem_ series is among my favorites. But one thing had me nervous.**
 
 During my pre-purchase research, I read about the calendar system and how the game featured a _“Persona”_ style approach to character-building. The idea is you spend a sizable portion of the game interacting with your team and learning more about them. This is a departure from how they’ve done it in the past, where you build relationships with the characters through support conversations, side-missions, the battles, and of course, the plot.

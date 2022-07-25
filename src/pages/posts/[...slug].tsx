@@ -1,3 +1,4 @@
+import { Title, Text } from '@mantine/core';
 import { MDXRemote } from 'next-mdx-remote';
 import { serialize } from 'next-mdx-remote/serialize';
 import { Layout } from '../../components';
@@ -6,8 +7,10 @@ import { getMdxPosts } from '../../utils';
 
 const Post = ({ content, frontmatter }) => {
   return (
-    <Layout >
+    <Layout>
+      <Title order={2}>{frontmatter.title}</Title>      
       <MDXRemote {...content} frontmatter={frontmatter} />
+      <Text color="dimmed">{frontmatter.date}</Text>
     </Layout>
   );
 };

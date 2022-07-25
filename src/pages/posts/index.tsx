@@ -14,10 +14,9 @@ const PostsPage = (props: PostPageProps) => {
 
   return (
     <Layout>
-      <Title ml="sm">Posts</Title>
       <List
         mt="sm"
-        spacing="md"
+        spacing="md"        
         styles={{
           item: {
             listStyleType: 'none',
@@ -25,7 +24,7 @@ const PostsPage = (props: PostPageProps) => {
         }}
       >
         {posts.map((post) => (
-          <List.Item key={post.frontmatter.id}>
+          <List.Item key={post.frontmatter.slug}>
             <Link href={`/posts/${post.frontmatter.slug}`} passHref>
               <Paper
                 sx={(theme) => ({
@@ -40,7 +39,7 @@ const PostsPage = (props: PostPageProps) => {
                 radius="xs"
                 component="a"
               >
-                <Title order={2}>{post.frontmatter.title}</Title>
+                <Title order={3}>{post.frontmatter.title}</Title>
                 {post.frontmatter.description && (
                   <Text>{post.frontmatter.description}</Text>
                 )}
