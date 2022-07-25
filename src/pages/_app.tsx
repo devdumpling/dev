@@ -13,6 +13,7 @@ import {
 } from '@mantine/core';
 import { useColorScheme } from '@mantine/hooks';
 import { theme } from '../constants/theme';
+// import NextImage from 'next/image';
 import { Title, Text, Image } from '@mantine/core';
 
 const components = {
@@ -25,6 +26,8 @@ const components = {
   p: (props) => <Text mt={'md'} {...props} />,
   blockquote: (props) => <Blockquote mt={'md'} {...props} />,
   img: (props) => <Image py={'md'} {...props} />,
+  // TODO figure out config for using next image with these
+  // img: (props) => <NextImage mt={'md'} alt={props.alt} src={props.src} {...props} />,
 };
 
 export default function App(props: AppProps) {
@@ -52,8 +55,7 @@ export default function App(props: AppProps) {
         <MantineProvider
           withGlobalStyles
           withNormalizeCSS
-          theme={{
-            /** Put your mantine theme override here */
+          theme={{            
             colorScheme,
             ...theme,
           }}

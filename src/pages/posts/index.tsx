@@ -16,7 +16,7 @@ const PostsPage = (props: PostPageProps) => {
     <Layout>
       <List
         mt="sm"
-        spacing="md"
+        spacing="md"        
         styles={{
           item: {
             listStyleType: 'none',

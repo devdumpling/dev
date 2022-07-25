@@ -7,17 +7,17 @@ export const Header = ({
   subtitle = 'Notes and rants.',
 }) => {
   return (
-    <Paper p="md" my="sm" shadow="xs">
+    <Paper my="sm">
       <Group position="apart" align="end">
         <Link href="/" passHref>
-          <Box>
+          <Box style={{ cursor: 'pointer' }}>
             <Title>{title}</Title>
             <Text>{subtitle}</Text>
           </Box>
         </Link>
         <Stack align="flex-end" spacing="xs">
           <DarkModeToggle />
-          <Group position="right">          
+          <Group position="right">
             <Anchor href="/posts">Posts</Anchor>
           </Group>
         </Stack>

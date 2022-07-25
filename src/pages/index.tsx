@@ -1,4 +1,4 @@
-import { Container } from '@mantine/core';
+import { Container, Title } from '@mantine/core';
 import { MDXRemote } from 'next-mdx-remote';
 import { serialize } from 'next-mdx-remote/serialize';
 
@@ -6,18 +6,23 @@ import { Header } from '../components';
 import { getLatestPost } from '../utils';
 
 const IndexPage = (props) => {
-  const { content } = props;
+  const { content, frontmatter } = props;
   return (
     <Container>
       <Header />
-      {content && <MDXRemote {...content} />}
+      {content && (
+        <>
+          <Title order={2}>{frontmatter.title}</Title>{' '}
+          <MDXRemote {...content} />
+        </>
+      )}
     </Container>
   );
 };
 
 export async function getStaticProps() {
   const latestPost = await getLatestPost('src/posts');
-  const { content } = latestPost;
+  const { content, frontmatter } = latestPost;
 
   // Serialize the content to be used by the MDX component
   const serializedContent = await serialize(content);
@@ -25,6 +30,7 @@ export async function getStaticProps() {
   return {
     props: {
       content: serializedContent,
+      frontmatter,
     },
   };
 }
