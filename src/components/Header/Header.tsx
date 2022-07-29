@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { DarkModeToggle } from '../DarkModeToggle';
 
 export const Header = ({
-  title = "Dev's Journal",
+  title = 'Dev 📓 Journal ',
   subtitle = 'Notes and rants.',
 }) => {
   return (
@@ -18,7 +18,7 @@ export const Header = ({
         <Stack align="flex-end" spacing="xs">
           <DarkModeToggle />
           <Group position="right">
-            <Anchor href="/posts">Posts</Anchor>
+            <Anchor href="/posts">posts</Anchor>
           </Group>
         </Stack>
       </Group>

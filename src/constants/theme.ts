@@ -5,6 +5,14 @@ export const theme: MantineThemeOverride = {
     'Georgia, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji',
   fontFamilyMonospace:
     'ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace',
+  headings: {    
+    fontFamily: 'ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace',
+    sizes: {
+      h1: {        
+        lineHeight: 1.4,
+      },
+    },
+  },
   colors: {
     dark: [
       '#d5d7e0',
@@ -19,7 +27,7 @@ export const theme: MantineThemeOverride = {
       '#01010a',
     ],
     light: [
-      '#f5f7fa',
+      '#fbf9ef',
       '#e4e7eb',
       '#d2d6d9',
       '#bfc1c4',

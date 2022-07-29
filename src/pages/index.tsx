@@ -1,8 +1,9 @@
-import { Container, Title } from '@mantine/core';
+import { Container, Title, Text } from '@mantine/core';
 import { MDXRemote } from 'next-mdx-remote';
 import { serialize } from 'next-mdx-remote/serialize';
 
 import { Header } from '../components';
+import { Footer } from '../components/Footer';
 import { getLatestPost } from '../utils';
 
 const IndexPage = (props) => {
@@ -13,9 +14,11 @@ const IndexPage = (props) => {
       {content && (
         <>
           <Title order={2}>{frontmatter.title}</Title>{' '}
+          <Text color="dimmed">{frontmatter.date}</Text>
           <MDXRemote {...content} />
         </>
       )}
+      <Footer />
     </Container>
   );
 };

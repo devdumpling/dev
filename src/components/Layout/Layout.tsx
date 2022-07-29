@@ -1,4 +1,5 @@
 import { Container } from '@mantine/core';
+import { Footer } from '../Footer';
 import { Header } from '../Header';
 
 export const Layout = ({ children }) => {
@@ -6,6 +7,7 @@ export const Layout = ({ children }) => {
     <Container>
       <Header />
       <main>{children}</main>
+      <Footer />
     </Container>
   );
 };
