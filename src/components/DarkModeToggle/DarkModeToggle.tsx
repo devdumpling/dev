@@ -7,7 +7,7 @@ export const DarkModeToggle = () => {
 
   return (
     <ActionIcon
-      variant="hover"
+      variant="outline"
       color={dark ? 'orange' : 'violet'}
       onClick={() => toggleColorScheme()}
       title="Toggle color scheme"

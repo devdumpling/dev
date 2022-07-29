@@ -6,7 +6,7 @@ const IndexPage = () => (
     <Paper shadow="xs" p="md" my="sm">
       <Group position="apart">
         <Box>
-          <Title>Hi, I'm Dev</Title>
+          <Title>Hi, I&apos;m Dev</Title>
           <Text>Here be experiments.</Text>
         </Box>
         <DarkModeToggle />

@@ -25,7 +25,7 @@ const components = {
   h6: (props) => <Title order={6} mt={'md'} {...props} />,
   p: (props) => <Text mt={'md'} {...props} />,
   blockquote: (props) => <Blockquote mt={'md'} {...props} />,
-  img: (props) => <Image py={'md'} {...props} />,
+  img: (props) => <Image alt="Journal Image" py={'md'} {...props} />,
   // TODO figure out config for using next image with these
   // img: (props) => <NextImage mt={'md'} alt={props.alt} src={props.src} {...props} />,
 };

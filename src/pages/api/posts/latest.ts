@@ -2,7 +2,7 @@ import type { NextApiRequest, NextApiResponse } from 'next';
 import { getLatestPost } from '../../../utils/getLatestPost';
 
 // iterate over each file in posts and return the one with the highest id
-export default async (req: NextApiRequest, res: NextApiResponse) => {
+const resolveLatest = async (req: NextApiRequest, res: NextApiResponse) => {
   const latest = await getLatestPost('src/posts');
 
   if (!latest) {
@@ -13,3 +13,5 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
 
   res.status(200).json(latest);
 };
+
+export default resolveLatest;
